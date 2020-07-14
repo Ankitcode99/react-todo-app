@@ -1,3 +1,5 @@
+##This is a simple react to-do app without any database to store todos, hard coded data will be shown when you run it for the first time.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
